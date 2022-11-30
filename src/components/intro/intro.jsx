@@ -16,13 +16,13 @@ const Intro = () => {
                             <div className="i-title-item">Leader</div>
                         </div>
                     </div>
-                    <div className="i-dec">
+                    <p className="i-dec">
                         I'm currently an IT Manager who wants to grow in Technology.
                         This year, the challenge was to become a developer, and luckily, I will be achieving that goal before the year ends.
                         I want to merge my technical talent, developement, and the printer my dad manages.
                         Web development is the next thing!
-                    </div>
-                </div>
+                    </p>
+                </div>            
             </div>
             <div className="i-right">
                 <div className="i-bg"></div>

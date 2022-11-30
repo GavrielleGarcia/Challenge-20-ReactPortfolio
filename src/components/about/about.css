@@ -1,0 +1,35 @@
+.a{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.a-left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: rgb(150, 150, 150);
+    height: 100%;
+}
+
+.a-right{
+    flex: 1;
+}
+
+
+
+.a-card{
+    width: 60%;
+    height: 70vg;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.a-img{
+    width: 200%;
+    height: 200%;
+    object-fit: cover;
+}
